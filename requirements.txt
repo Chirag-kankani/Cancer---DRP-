@@ -1,0 +1,24 @@
+# Core Data Analysis & Math
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+
+# Bioinformatics & Chemoinformatics
+rdkit
+scanpy
+gseapy
+
+# Machine Learning & Deep Learning
+torch
+shap
+
+# Interactive Environment & Testing
+jupyter
+notebook
+pytest
